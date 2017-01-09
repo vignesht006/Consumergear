@@ -1,9 +1,8 @@
-<?php
-$servername = "localhost";
-$username = "root";
-$password = "pass";
+<?phervername = "localhost";
+$username = "dineshpartan";
+$password = "!23456789o";
 $db='consume_db';
-global $con;
+
 // Create connection
 $con = mysqli_connect($servername, $username, $password,$db);
 
@@ -13,3 +12,4 @@ if (!$con) {
 }
 
 ?>
+
